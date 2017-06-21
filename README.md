@@ -1,2 +1,3 @@
 # hello-world
 undergoing this time-honored tradition...
+many moons ago, i was involved in web development, scripting etc but decided to follow my heart to georgia. yeah, that was a huge mistake,. but i'm back home and doing fine. still not working in web development but current job has a need for someone who at least understands some of what the IT/web folks are talking about. im also working on some simple gis mappping stuff and want to learn more. im kind of a map geek and facinated especially by historical maps, thier correlation to the present, but most of all the reason(s) WHY configurations changed. 
